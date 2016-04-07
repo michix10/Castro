@@ -11,6 +11,8 @@ This changelog is for beta version of Castro. For main version changelog: [Chang
 ### Features
 ### Localization
 ### Bug fixes
+- Fixed: Crash caused by Remembe in Welcome window;
+- Fixed: View initialization error on some devices;
 ### Tools
 
 ## Castro [2.0 Beta 01] - 03.04.2016 (RC)
