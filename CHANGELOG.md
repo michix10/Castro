@@ -8,6 +8,7 @@ This changelog is for beta version of Castro. For main version changelog: [main]
 ## Castro [2.0 Beta 02] - 08.04.2016
 ### Design
 - Added: Tablet design for main Information windows
+- Improved: Toolbar font in Sensors, Back and Front camera
 
 ### Information
 - Added: Uptime (without Deep Sleep) in System category
