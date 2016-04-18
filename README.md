@@ -1,4 +1,4 @@
-->![Castro Logo](/images/ic_launcher.png)<-
+![Castro Logo](/images/ic_launcher.png)
 # Castro
 Castro - is the program that helps monitor the state of the system.
 
@@ -7,11 +7,11 @@ Castro - is the program that helps monitor the state of the system.
 - [Castro Beta - Google Play](https://play.google.com/apps/testing/com.itemstudio.castro)
 
 ## FAQ
-[FAQ can be found here]()
+[FAQ can be found here](FAQ.md)
 
 ## Changelog
-- [Release]()
-- [Beta]()
+- [Release](CHANGELOG_RELEASE.md)
+- [Beta](CHANGELOG_BETA.md)
 
 ## Translation
 [If you want to help in the translation of the application, visit our OneSky platform.] (http://itemstudio.oneskyapp.com/collaboration/project?id=55750)
