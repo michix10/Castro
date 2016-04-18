@@ -5,24 +5,24 @@
 
 This changelog is for beta version of Castro. For main version changelog: [main](changelogmain.txt).
 
-## Castro [2.0 Beta 03] - Unknown
+## Castro [2.0 Beta 03] - 18.04.2016
 ### Design
 - Added: Bottom sheet dialog to choose export method.
 - Added: Back and Front camera layouts for tablet version.
 - Added: Feedback layout for tablet version.
 - Fixed: Separator color in Navigation Drawer for tablet version.
 
-### Information
-
 ### Features
-
-### Localization
+- Added: Homescreen widget (without Configuration window for now) [PRO Version]
 
 ### Bug fixes
+- Fixed: Error when getting Camera's resolution.
+- Fixed: Processor initialization in Welcome window.
 
 ### Tools
 - Replaced: BottomSheetBuilder library by Android Support equivalent.
 - Replaced: Typography library by own equivalent.
+- Updated: Material Dialogs to version 0.8.5.8.
 
 ## Castro [2.0 Beta 02] - 08.04.2016
 ### Design
