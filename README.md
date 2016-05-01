@@ -6,12 +6,12 @@ Castro - is the program that helps monitor the state of the system.
 - [Castro - Google Play](https://play.google.com/store/apps/details?id=com.itemstudio.castro)
 - [Castro Beta - Google Play](https://play.google.com/apps/testing/com.itemstudio.castro)
 
-## FAQ
-[FAQ can be found here](FAQ.md)
-
 ## Changelog
 - [Release](CHANGELOG_RELEASE.md)
 - [Beta](CHANGELOG_BETA.md)
+
+## FAQ
+[FAQ can be found here](FAQ.md)
 
 ## Translation
 [If you want to help in the translation of the application, visit our OneSky platform.] (http://itemstudio.oneskyapp.com/collaboration/project?id=55750)

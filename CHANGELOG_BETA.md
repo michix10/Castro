@@ -5,6 +5,29 @@
 
 This changelog is for beta version of Castro. For main version changelog: [changelog](CHANGELOG_RELEASE.md).
 
+## Castro [2.0 Beta 04] - Unknown
+### Design
+- Updated: Design of Wi-Fi disabled window.
+
+### Information
+
+### Features
+- Added: Ability to open system settings from Battery category.
+- Improved: Runtime Permissions model for Android 6.0.
+
+### Localization
+- Added: All information strings for translation.
+
+### Bug fixes
+- Fixed: Major fixes for Camera related erros.
+- Fixed: Processor initialization in Welcome window.
+- Fixed: Sensors hiding, if it is unavailable.
+- Fixed: Error with Wi-Fi disabling.
+- Fixed: Showing video stabilization in Back and Front camera categories.
+
+### Tools
+- Improved: Built with Android Studio 2.1.
+
 ## Castro [2.0 Beta 03] - 18.04.2016
 ### Design
 - Added: Bottom sheet dialog to choose export method.
