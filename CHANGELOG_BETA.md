@@ -7,12 +7,14 @@ This changelog is for beta version of Castro. For main version changelog: [chang
 
 ## Castro [2.0 Beta 04] - Unknown
 ### Design
-- Updated: Design of Wi-Fi disabled window.
+- Updated: Design of Wi-Fi disabled window. 
 
 ### Information
 
 ### Features
 - Added: Ability to open system settings from Battery category.
+- Added: Export information to PDF and Text files.
+- Added: Request to use only English language, when sending feedback.
 - Improved: Runtime Permissions model for Android 6.0.
 
 ### Localization
@@ -24,9 +26,13 @@ This changelog is for beta version of Castro. For main version changelog: [chang
 - Fixed: Sensors hiding, if it is unavailable.
 - Fixed: Error with Wi-Fi disabling.
 - Fixed: Showing video stabilization in Back and Front camera categories.
+- Fixed: Showing feedback button in About window on phones.
 
 ### Tools
 - Improved: Built with Android Studio 2.1.
+- Updated: ButterKnife to version 8.0.1.
+- Updated: TedPermission to version 1.0.9.
+
 
 ## Castro [2.0 Beta 03] - 18.04.2016
 ### Design
