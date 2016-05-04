@@ -1,15 +1,13 @@
 # Changelog
 
 - Latest production version: 1.5.1
-- Latest beta version: 2.0 Beta 03
+- Latest beta version: 2.0 Beta 04
 
 This changelog is for beta version of Castro. For main version changelog: [changelog](CHANGELOG_RELEASE.md).
 
-## Castro [2.0 Beta 04] - Unknown
+## Castro [2.0 Beta 04] - 04.05.2016
 ### Design
 - Updated: Design of Wi-Fi disabled window. 
-
-### Information
 
 ### Features
 - Added: Ability to open system settings from Battery category.
@@ -32,7 +30,6 @@ This changelog is for beta version of Castro. For main version changelog: [chang
 - Improved: Built with Android Studio 2.1.
 - Updated: ButterKnife to version 8.0.1.
 - Updated: TedPermission to version 1.0.9.
-
 
 ## Castro [2.0 Beta 03] - 18.04.2016
 ### Design
