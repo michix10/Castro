@@ -1,9 +1,34 @@
 # Changelog
 
 - Latest production version: 1.5.1
-- Latest beta version: 2.0 Beta 04
+- Latest beta version: 2.0 Beta 05
 
-This changelog is for beta version of Castro. For main version changelog: [changelog](CHANGELOG_RELEASE.md).
+This changelog is for beta version of Castro. Changelog for main version can be found [here](CHANGELOG_RELEASE.md).
+
+## Castro [2.0 Beta 05] - 02.06.2016
+### Information
+- Improved: External memory API to show proper information.
+
+### Design
+- Added: Night mode [PRO version].
+- Simplified: All themes simplified to one theme (Made to get night theme work; There is bug in Feedback window with status bar color for now).
+
+### Information
+- Added: Plus before phone number in Cellular category.
+
+### Features
+- Added: Firebase Analytics and Firebase Crash instead of Fabric.
+- Added: Ability to send invites for friends to try out Castro (Still experimenting with the placement of the item).
+
+### Bug fixes
+- Fixed: Showing total and available external memory on some devices.
+- Fixed: Flash bugs in Front camera category on some devices.
+
+### Tools
+- Improved: Built with Android Studio 2.1.1.
+- Updated: Android Support Library to version 23.4.0.
+- Updated: Zene to version 1.2 (Now work properly with Night Theme).
+- Updated: TedPermission to version 1.0.11.
 
 ## Castro [2.0 Beta 04] - 04.05.2016
 ### Design
