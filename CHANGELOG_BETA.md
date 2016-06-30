@@ -1,6 +1,6 @@
 # Changelog
 
-- Latest production version: 1.5.1
+- Latest production version: 2.0
 - Latest beta version: 2.0 Beta 05
 
 This changelog is for beta version of Castro. Changelog for main version can be found [here](CHANGELOG_RELEASE.md).
@@ -10,7 +10,7 @@ This changelog is for beta version of Castro. Changelog for main version can be 
 - Improved: External memory API to show proper information.
 
 ### Design
-- Added: Night mode [PRO version].
+- Added: Night mode [Premium version].
 - Simplified: All themes simplified to one theme (Made to get night theme work; There is bug in Feedback window with status bar color for now).
 
 ### Information
@@ -64,7 +64,7 @@ This changelog is for beta version of Castro. Changelog for main version can be 
 - Fixed: Separator color in Navigation Drawer for tablet version.
 
 ### Features
-- Added: Homescreen widget (without Configuration window for now) [PRO Version]
+- Added: Homescreen widget (without Configuration window for now) [Premium Version]
 
 ### Bug fixes
 - Fixed: Error when getting Camera's resolution.
