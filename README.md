@@ -1,4 +1,4 @@
-![Castro Logo](/images/ic_launcher.png)
+![Castro Logo](/images/icon.png)
 # Castro
 Castro - is the program that helps monitor the state of the system.
 
