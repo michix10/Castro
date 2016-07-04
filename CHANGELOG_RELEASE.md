@@ -1,9 +1,30 @@
 # Changelog
 
-- Latest production version: 2.0
+- Latest production version: 2.0.1
 - Latest beta version: 2.0 Beta 05
 
 This changelog is for release version of Castro. Changelog for beta version can be found [here](CHANGELOG_BETA.md).
+
+## Castro [2.0.1] - 04.07.2016
+### Information:
+- Added: New Memory API, which now correctly detects external memory.
+- Improved: Emulated external memory is no longer considered as an external memory.
+
+### Localization:
+- Added: Chinese Simplified language.
+- Added: Portuguese (Brazil) language.
+- Improved: Existing translations.
+
+### Bug fixes
+- Fixed: FC when creating Data reports.
+- Fixed: Added the cap in Welcome window (Used when the Сamera information may not be initialized, so that Castro could continue work without FC).
+- Fixed: The error that prevented the display of the Processor temperature.
+- Fixed: The error that prevented the display of the Battery temperature and voltage.
+- Fixed: The error due to which the available memory was not shown in percentage.
+- Fixed: Wrong color in recent tasks from Premium window.
+- Fixed: Humburger icon on Tablets.
+- Fixed: Tablet detection.
+- Fixed: BusyBox detection.
 
 ## Castro [2.0] - 01.07.2016
 ### Information
