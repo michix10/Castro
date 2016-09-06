@@ -1,9 +1,47 @@
 # Changelog
 
 - Latest production version: 2.0.1
-- Latest beta version: 2.0 Beta 05
+- Latest beta version: 2.1 Beta 01
 
 This changelog is for beta version of Castro. Changelog for main version can be found [here](CHANGELOG_RELEASE.md).
+
+## Castro [2.1 Beta 01] - 06.09.2016
+### Information
+- Added: New category in Other - Codecs (Detection of Audio and Video properties, check is encoder, etc.).
+- Added: Technologies category for Processor (Checks support for SWP, NEON and Thumb technologies).
+- Added: DSP version of CPU for recognized devices.
+- Added: Technical Process of CPU for recognized devices.
+- Added: Up to 100 new devices for SoC database (LG V10 (12 models), LG G4 (23 models), LG G5 (15 models), LG G5SE (3 models), Moto G3 (6 models), all OnePlus phones (X, One, Two and Three), many Xiaomi phones (Redmi Rice, Redmi 1S, MI 2, MI 2S, MI 2A, MI 3W, MI 4C, MI 4S, MI MAX, MI NOTE LTE, MI NOTE Pro, MI PAD, MI PAD 2, Mi 4i, Redmi 3S), Galaxy S7, S7 Edge, S7 Active and Galaxy Note 7).
+- Added: Support for systemless Root and BusyBox (/xbin/su and other).
+- Added: Build Tags field in System.
+- Added: Font scale property to System.
+- Added: Check for Disk Encryption in System.
+- Added: Version of many Android Libraries in System (ICU, ICU CLDR, OpenSSL and ZLib).
+- Improved: Speed of SoC detection.
+- Improved: Speed of Root and BusyBox detection.
+
+### Features
+- Added: Device identifier to Feedback screen.
+- Added: Ability to force use English language for whole application.
+- Added: Memory extension for Premium Widget [PREMIUM].
+- Added: All extensions support for Roman Nurik's DashClock [PREMIUM].
+- Added: Vector graphics support for all Android version.
+- Removed: Dropped support for Android 4.0.3 and earlier.
+- Removed: Invites feature from Settings screen (This function wasn't popular).
+
+
+### Bug fixes
+- Fixed: Open GL detection on some devices.
+- Fixed: View's unbinding when Fragments destroying.
+
+### Tools
+- Improved: Built with Android Studio 2.1.3.
+- Updated: Built Tools to version 24.0.2.
+- Updated: Android Support Library to version 24.2.0.
+- Updated: Material Dialogs to version 0.9.0.1.
+- Updated: TedPermission to version 1.0.12.
+- Updated: Crashlytics to version 2.6.2.
+- Updated: ButterKnife for version 8.4.0.
 
 ## Castro [2.0 Beta 05] - 02.06.2016
 ### Information
@@ -32,7 +70,7 @@ This changelog is for beta version of Castro. Changelog for main version can be 
 
 ## Castro [2.0 Beta 04] - 04.05.2016
 ### Design
-- Updated: Design of Wi-Fi disabled window. 
+- Updated: Design of Wi-Fi disabled window.
 
 ### Features
 - Added: Ability to open system settings from Battery category.
