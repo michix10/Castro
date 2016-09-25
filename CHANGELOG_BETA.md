@@ -1,9 +1,30 @@
 # Changelog
 
 - Latest production version: 2.0.1
-- Latest beta version: 2.1 Beta 01
+- Latest beta version: 2.1 Beta 02
 
 This changelog is for beta version of Castro. Changelog for main version can be found [here](CHANGELOG_RELEASE.md).
+
+## Castro [2.1 Beta 02] - 25.09.2016
+### Information
+- Added: Codecs API are finished now.
+
+### Design
+- Added: Graphics for Codecs module.
+
+### Features
+- Added: All strings are finalized now.
+- Added: All small graphics changed to vector format.
+- Added: All big graphics has optimized size now.
+
+### Bug fixes
+- Fixed: Force close in Memory category.
+
+### Tools
+- Updated: Built with Android Studio 2.2.
+- Updated: Gradle plugin to version 2.2.0.
+- Updated: Android Support Library to version 24.2.1.
+- Removed: FastAdapter library changed with own equivalent.
 
 ## Castro [2.1 Beta 01] - 06.09.2016
 ### Information
@@ -28,7 +49,6 @@ This changelog is for beta version of Castro. Changelog for main version can be 
 - Added: Vector graphics support for all Android version.
 - Removed: Dropped support for Android 4.0.3 and earlier.
 - Removed: Invites feature from Settings screen (This function wasn't popular).
-
 
 ### Bug fixes
 - Fixed: Open GL detection on some devices.
