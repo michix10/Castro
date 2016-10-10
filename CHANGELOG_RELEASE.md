@@ -1,9 +1,42 @@
 # Changelog
 
-- Latest production version: 2.0.1
+- Latest production version: 2.1
 - Latest beta version: 2.1 Beta 02
 
 This changelog is for release version of Castro. Changelog for beta version can be found [here](CHANGELOG_BETA.md).
+
+## Castro [2.1] - 10.10.2016
+### Information:
+- Added: New category in Other - Codecs (Detection of Audio and Video properties, check is encoder, etc.).
+- Added: Technologies category for Processor (Checks support for SWP, NEON and Thumb technologies).
+- Added: DSP version of CPU for recognized devices.
+- Added: Technical Process of CPU for recognized devices.
+- Added: Up to 100 new devices for SoC database (newly released Pixel, Pixel XL and LG V20. LG V10, LG G4, LG G5, LG G5 SE, Moto G3, all OnePlus phones, all Xiaomi phones, Galaxy S7, Galaxy S7 EDGE, Galaxy Note 7, Galaxy Note 5, Galaxy Note 4, Xperia X, Xperia X Compact, Xperia X Performance, Xperia XA, Xperia XA Ultra, Xperia XZ, Xperia E5, Xperia C4 dual, Google Pixel C, Google Tango Tablet Development Kit, Moto G4, OPPO A33 and other).
+- Added: Support for systemless Root and BusyBox (/xbin/su and other).
+- Added: Build Tags field in System.
+- Added: Font scale property to System.
+- Added: Check for Disk Encryption in System.
+- Added: Version of many Android Libraries in System (ICU, ICU CLDR, OpenSSL and ZLib).
+- Improved: Speed of SoC detection.
+- Improved: Speed of Root and BusyBox detection.
+
+### Features
+- Added: Device identifier to Feedback screen.
+- Added: Ability to force use English language for whole application.
+- Added: Memory extension for Premium Widget [PREMIUM].
+- Added: All extensions support for Roman Nurik's DashClock [PREMIUM].
+- Added: Vector graphics support for all Android version.
+- Added: New category in FAQ - Abbreviations;
+- Removed: Dropped support for Android 4.0.3 and earlier.
+- Removed: Invites feature from Settings screen (This function wasn't popular).
+
+### Bug fixes
+- Fixed: Open GL detection on some devices.
+- Fixed: View's unbinding when Fragments destroying.
+- Fixed: Force close in Feedback window on tablets;
+- Fixed: Force close in Processor window on tablets;
+- Fixed: Feedback window title localization;
+- Fixed: Force close, if Castro can’t detect CPU temperature;
 
 ## Castro [2.0.1] - 04.07.2016
 ### Information:
