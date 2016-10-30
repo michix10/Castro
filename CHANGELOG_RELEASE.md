@@ -1,9 +1,32 @@
 # Changelog
 
-- Latest production version: 2.1
+- Latest production version: 2.1.5
 - Latest beta version: 2.1 Beta 02
 
 This changelog is for release version of Castro. Changelog for beta version can be found [here](CHANGELOG_BETA.md).
+
+## Castro [2.1.5] - 30.10.2016
+### Design:
+- Added: Soft shadows for category cards in Other window;
+- Added: New algorithm to scale cards for big phones and tablets in Other window;
+- Improved: fixed blank status bar in Feedback window on tablets;
+
+### Features
+- Added: Initial support for Android 7.1;
+- Added: Camera modes information to TXT and PDF reports;
+- Added: Title and Date in TXT report;
+- Improved: Organized PDF report layout (added subcategories);
+- Improved: Creation date of both, TXT and PDF reports;
+- Updated: Crash reporting engine;
+- Updated: PDF reports creating engine;
+
+### Bug fixes
+- Improved: Overhaul performance;
+- Fixed: External memory information export;
+- Fixed: Bug with two Zoom in reports (now Flash and Zoom);
+- Fixed: Blank status bar in Feedback window on tablets
+- Fixed: Crash in Processor category, when Castro can't detect OpenGL version;
+- Fixed: Crash in Processor category, when Castro can't check NEON technology support;
 
 ## Castro [2.1] - 10.10.2016
 ### Information:
