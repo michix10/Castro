@@ -35,7 +35,7 @@ This changelog is for beta version of Castro. Changelog for main version can be 
 - Added: Runtime check for Identifiers permission in Device category.
 - Updated: Analytics core engine.
 
-## Fixes
+### Fixes
 - Fixed: Two-line Codec name in Codecs category displaying.
 
 
