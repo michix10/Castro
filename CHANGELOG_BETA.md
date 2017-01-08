@@ -1,9 +1,42 @@
 # Changelog
 
 - Latest production version: 2.1.5
-- Latest beta version: 2.1 Beta 02
+- Latest beta version: 2.2 Beta 01
 
 This changelog is for beta version of Castro. Changelog for main version can be found [here](CHANGELOG_RELEASE.md).
+
+## Castro [2.2 Beta 01] - 08.01.2017
+### Information
+- Added [System]: Full names for OS versions (ex. Nougat 7.1.1).
+- Added [System]: SELinux state (ex. Enforcing).
+- Added [Battery]: Current charge rate measuring.
+- Added [Battery]: Minimal and Maximal voltage rate.
+- Added [Battery]: Check for USB fast charging technology support.
+- Added [Processor]: New category - Power saving.
+- Added [Processor]: Check for Multi-core saving technology.
+- Added [Processor]: GPU minimal and maximal frequency detection.
+- Added [Processor]: GPU governor detection.
+- Added [Memory]: New category - Storage.
+- Added [Memory]: Checks for storage encryption and protection support.
+- Added [Memory]: Check for Buffer total memory.
+- Added [Memory]: Check for SWAP total, available and cached memory.
+- Added [Device]: Check for Fingerprint scanner availability.
+- Added [Sensors]: Sensors API improved.
+- Added [Sensors]: Dialog with additional infomation - Full name, Vendor, Type, Version, Resolution, Power consumption, Maximum range.
+- Added [Network]: Checks for current and available TCP algorithms.
+
+### Design
+- Updated: Theme engine to version 1.1. Added support for changing accent color of the application. **!Could be unstable. To take effect manualy restart application!.**
+- Updated: Primary color of Sensors card in Other window.
+- Updated: Round icons support for Pixel devices.
+- Added: Landscape orientation for Go Premium windows.
+
+### Features
+- Added: Runtime check for Identifiers permission in Device category.
+- Updated: Analytics core engine.
+
+## Fixes
+- Fixed: Two-line Codec name in Codecs category displaying.
 
 
 ## Castro [2.1 Beta 02] - 25.09.2016
