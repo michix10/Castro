@@ -1,9 +1,30 @@
 # Changelog
 
 - Latest production version: 2.1.5
-- Latest beta version: 2.2 Beta 01
+- Latest beta version: 2.2 Beta 02
 
 This changelog is for beta version of Castro. Changelog for main version can be found [here](CHANGELOG_RELEASE.md).
+
+## Castro [2.2 Beta 02] - 15.01.2017
+### Design
+- Added: Accent color tinting for Feedback button's icon in About window.
+- Added: Accent color tinting for disabled card in Wi-Fi category.
+- Added: Accent color tinting for denied message in Device category.
+- Updated: Color rendering for text in About window.
+- Updated: Anti Aliasing for color circles in Settings.
+- Updated: Status bar color on Android 5.0 and lower.
+- Removed: Ability to choose white accent color in Settings.
+
+### Features
+- Added: All new information in Export feature.
+- Added: Dialog, which explains the need for restarting the application, when accent color changed.
+- Updated: Algorithm to detect unrecognized processors and devices.
+- Updated: Hurd version to 3.3 in About window.
+
+### Fixes
+- Fixed: Crash, when clicking on specific sensors.
+- Fixed: Missing OS Version string in English localization.
+
 
 ## Castro [2.2 Beta 01] - 08.01.2017
 ### Information
