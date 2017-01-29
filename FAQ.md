@@ -30,6 +30,9 @@ Used to get camera properties and camera mods information.
 ### Storage (WRITE_EXTERNAL_STORAGE, READ_EXTERNAL_STORAGE)
 Used to save Castro reports on SD card and read information about internal and external memory.
 
+### Fingerprint scanner (USE_FINGERPRINT)
+Fingerprint scanner has no direct use in current versions. Used to check if device supports fingerprint scanner.
+
 ## Abbreviations
 ### What is ICU?
 ICU is a mature, widely used set of C/C++ and Java libraries providing Unicode and Globalization support for software applications. ICU is widely portable and gives applications the same results on all platforms and between C/C++ and Java software.
@@ -73,6 +76,9 @@ The Dynamic Host Configuration Protocol (DHCP) is a standardized network protoco
 ### What is DNS?
 The Domain Name System (DNS) is a hierarchical decentralized naming system for computers, services, or any resource connected to the Internet or a private network. It associates various information with domain names assigned to each of the participating entities.
 
+### What is SELinux?
+Security-Enhanced Linux (SELinux) is a Linux kernel security module that provides a mechanism for supporting access control security policies, including United States Department of Defense–style mandatory access controls (MAC).
+
 ## Not correct information
 ### Screen density
 Screen density calculation can be wrong. Android can not define your real DPI, because it scales it to the nearest constant (120, 240, 360, 480, or 640).
@@ -80,8 +86,8 @@ Screen density calculation can be wrong. Android can not define your real DPI, b
 ### Battery capacity
 Battery capacity can only be reported for factory default batteries. If the battery was replaced with an extended capacity battery, neither Android or Castro will be able to detect the new capacity.
 
-### External memory
-Castro can show similar values for External and Internal memory. It is caused by Android's SD card emulating. On the newer devices Android defines Internal memory as emulated External memory.
+### Battery minimum and maximum voltage
+Minimal and maximal voltage can be reported for Snapdragon device's only for now. We will add support for other device's in future.
 
 ### Camera parameters
 Camera capabilities may show incorrect information if the manufacturer encoded the wrong values into the Android profile of the device.

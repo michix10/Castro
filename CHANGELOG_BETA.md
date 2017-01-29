@@ -1,6 +1,6 @@
 # Changelog
 
-- Latest production version: 2.1.5
+- Latest production version: 2.2
 - Latest beta version: 2.2 Beta 02
 
 This changelog is for beta version of Castro. Changelog for main version can be found [here](CHANGELOG_RELEASE.md).
@@ -47,7 +47,7 @@ This changelog is for beta version of Castro. Changelog for main version can be 
 - Added [Network]: Checks for current and available TCP algorithms.
 
 ### Design
-- Updated: Theme engine to version 1.1. Added support for changing accent color of the application. **!Could be unstable. To take effect manualy restart application!.**
+- Updated: Theme engine to version 1.1. Added support for changing accent color of the application.
 - Updated: Primary color of Sensors card in Other window.
 - Updated: Round icons support for Pixel devices.
 - Added: Landscape orientation for Go Premium windows.
@@ -58,7 +58,6 @@ This changelog is for beta version of Castro. Changelog for main version can be 
 
 ### Fixes
 - Fixed: Two-line Codec name in Codecs category displaying.
-
 
 ## Castro [2.1 Beta 02] - 25.09.2016
 ### Information

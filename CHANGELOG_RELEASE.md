@@ -1,9 +1,48 @@
 # Changelog
 
-- Latest production version: 2.1.5
+- Latest production version: 2.2
 - Latest beta version: 2.2 Beta 02
 
 This changelog is for release version of Castro. Changelog for beta version can be found [here](CHANGELOG_BETA.md).
+
+## Castro [2.2] - 29.01.2017
+### Information
+- Added [System]: SELinux state (ex. Enforcing).
+- Added [Battery]: Current charge rate measuring.
+- Added [Battery]: Minimal and Maximal voltage rate.
+- Added [Battery]: Check for USB fast charging technology support.
+- Added [Processor]: New category - Power saving.
+- Added [Processor]: Check for Multi-core saving technology.
+- Added [Processor]: GPU minimal and maximal frequency detection.
+- Added [Processor]: GPU governor detection.
+- Added [Processor]: Support for Kirin 655, Kirin 950, Kirin 960, Snapdragon 625, Snapdragon 400 (MSM8928), Snapdragon 800 (MSM8996 Lite), Snapdragon 801 (MSM8974AC v3), Exynos 7 (7578), Exynos 7 (7870), Exynos 7 (7880), MediaTek MT6580M.
+- Added [Processor]: New devices in SoC database (Xperia M2 Aqua, Xperia M5, Xperia M5 Dual, Xperia T2 Ultra, Xperia T2 Ultra Dual, Xperia Z, Xperia Z3 Compact, Xperia SP, Mate 8, Mate 9, Mate 9 PRO, Nokia N1, Nokia 6, Honor 6X, Zenfone 3 ZOOM, Zenfone 6, Redmi Note 4G, MI 5s Plus, MI Mix, MI 5s, Redmi 4, Redmi 4 PRO, Redmi 4A, Redmi Note 4X, Galaxy A3 (2016), Galaxy A3 (2017), Galaxy A5 (2016), Galaxy A5 (2017), Galaxy A7 (2017), Galaxy Grand Neo Plus, Moto Z, Moto X Pure Edition, Moto Z Play Droid, OnePlus 3T, Flare X 2, Wiko Lenny3, LG Volt, LG Volt 4G, Micromax Bolt Q338, Meizu PRO 5, Tegra Note 7.
+- Added [System]: Full names for OS versions (ex. Nougat 7.1.1).
+- Added [Memory]: New category - Storage.
+- Added [Memory]: Checks for storage encryption and protection support.
+- Added [Memory]: Check for Buffer total memory.
+- Added [Memory]: Check for SWAP total, available and cached memory.
+- Added [Device]: Check for Fingerprint scanner availability.
+- Added [Sensors]: Sensors API improved.
+- Added [Sensors]: Dialog with additional infomation - Full name, Vendor, Type, Version, Resolution, Power consumption, Maximum range.
+- Added [Network]: Checks for current and available TCP algorithms.
+
+### Design
+- Added: Landscape orientation for Go Premium windows.
+- Updated: Theme engine to version 1.1. Added support for changing accent color of the application.
+- Updated: Primary color of Sensors card in Other window.
+- Updated: Round icons support for Pixel devices.
+
+### Features
+- Added: Runtime check for Identifiers permission in Device category.
+- Updated: FAQ with new abbreviations and removed some incorrect information.
+- Updated: Algorithm to detect unrecognized processors and devices.
+- Updated: Analytics core engine.
+
+### Fixes
+- Added: Scroll in landscape orientation in About window.
+- Fixed: Missing OS Version string in English localization.
+- Fixed: Two-line Codec name in Codecs category displaying.
 
 ## Castro [2.1.5] - 30.10.2016
 ### Design:
