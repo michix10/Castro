@@ -16,23 +16,6 @@ We are developing new Premium features for every update. Buy once, get it all!
 ### What will happen if I will change my device?
 When you purchase Castro Premium, in Google Play, it will be assigned to your Google account. If you use the same Google account on a new or factory reset device, you will have access to all previous purchases.
 
-
-## Permissions
-### Network connections (ACCESS_WIFI_STATE, ACCESS_NETWORK_STATE, INTERNET)
-Used to connect to Castro analytics servers and to get information Wi-Fi.
-
-### Phone state (READ_PHONE_STATE)
-Used to get information about identifiers, like IMEI, IMSI and serial number. Also used to get information about cellular.
-
-### Camera (CAMERA)
-Used to get camera properties and camera mods information.
-
-### Storage (WRITE_EXTERNAL_STORAGE, READ_EXTERNAL_STORAGE)
-Used to save Castro reports on SD card and read information about internal and external memory.
-
-### Fingerprint scanner (USE_FINGERPRINT)
-Fingerprint scanner has no direct use in current versions. Used to check if device supports fingerprint scanner.
-
 ## Abbreviations
 ### What is ICU?
 ICU is a mature, widely used set of C/C++ and Java libraries providing Unicode and Globalization support for software applications. ICU is widely portable and gives applications the same results on all platforms and between C/C++ and Java software.
