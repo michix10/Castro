@@ -1,18 +1,24 @@
 # Changelog
 
-- Latest production version: 2.2.1
+- Latest production version: 2.2.1 build 2
 - Latest beta version: 2.2 Beta 02
 
 This changelog is for release version of Castro. Changelog for beta version can be found [here](CHANGELOG_BETA.md).
 
-## Castro [2.2.1] - 07.02.2017
+## Castro [2.2.1] - 07.02.2017 | Castro [2.2.1 Build 2] - 09.02.2017
 ### Features
 - Added: Privacy Policy in Settings window.
+
+### Design
+- Added: Color tinting for Navigation Drawer's header in tablet version [BUILD 2 ONLY].
+
+### Localization
+- Fixed: Many mistakes in all localizations [BUILD 2 ONLY].
 
 ### Fixes
 - Fixed: Navigation Drawer crash on some devices.
 - Fixed: Crash in Go Premium window on Android 4.4 and lower.
-- Fixed: Rare crash in Battery category.
+- Fixed: Rare crash in Battery category [BUILD 2 ONLY].
 - Fixed: Rare crash in Sensors category.
 - Fixed: Crash while detecting explicit type of Codecs.
 - Fixed: Rare crash on start.
