@@ -1,9 +1,49 @@
 # Changelog
 
-- Latest production version: 2.2.1
-- Latest beta version: 2.2 Beta 02
+- Latest production version: 2.2.1 Build 2
+- Latest beta version: 2.3 Beta 01
 
 This changelog is for beta version of Castro. Changelog for main version can be found [here](CHANGELOG_RELEASE.md).
+
+## Castro [2.3 Beta 01] - 19.04.2017
+### Information
+- Added [Battery]: "Unknown" statuses for Charge state and Health state fields.
+- Added [Wi-Fi]: New category - Technologies.
+- Added [Wi-Fi]: Check for Device-to-AP RTT support.
+- Added [Wi-Fi]: Check for Enhanced Power Reporting support.
+- Added [Wi-Fi]: Check for Wi-Fi Direct support.
+- Added [Wi-Fi]: Check for Offload Scan support.
+- Added [Wi-Fi]: Check for Tunnel Directed Scan support.
+- Added [Camera]: Current and Supported Flash modes.
+- Added [Camera]: Current and Supported White-Balance modes.
+
+### Design
+- Updated: Icon for accessing Battery's system settings.
+
+### Features
+- Added: Support for new "tall" displays (Samsung Galaxy S8 and LG G6).
+- Added: Android 7.1 Shortcuts to create reports.
+- Added: Ability to access system settings for Memory, Wi-Fi, Cellular right from Castro by clicking icon in Toolbar.
+- Added: Missing string about DashClock widgets in Go Premium window.
+- Improved: RTL support.
+- Improved: Tablets detection method now work better.
+- Improved: SIM card detection method now work better.
+- Improved: Wi-Fi detection method now detects not only enabled Wi-Fi, but connected also.
+
+### Perfromance
+- Updated: All .png graphics files updated with new Google format - .webp.
+- Updated: Rules for ProGuard with even more orientation steps.
+- Imroved: Speed of Root detection.
+
+### Fixes
+- Fixed: Small improvements for normal widget !NOT FINISHED YET! [PREMIUM].
+- Fixed: Repeatable information from export feature.
+- Fixed: Normal widget's icons croping [PREMIUM].
+
+### Tools
+- Updated: PDF creation engine.
+- Removed: Android Support Libraries from Hurd module.
+- Removed: Apache HTTP library from Hurd module.
 
 ## Castro [2.2 Beta 02] - 15.01.2017
 ### Design
@@ -24,7 +64,6 @@ This changelog is for beta version of Castro. Changelog for main version can be 
 ### Fixes
 - Fixed: Crash, when clicking on specific sensors.
 - Fixed: Missing OS Version string in English localization.
-
 
 ## Castro [2.2 Beta 01] - 08.01.2017
 ### Information
