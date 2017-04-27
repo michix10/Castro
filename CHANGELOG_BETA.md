@@ -1,9 +1,17 @@
 # Changelog
 
 - Latest production version: 2.2.1 Build 2
-- Latest beta version: 2.3 Beta 01
+- Latest beta version: 2.3 Beta 02
 
 This changelog is for beta version of Castro. Changelog for main version can be found [here](CHANGELOG_RELEASE.md).
+
+## Castro [2.3 Beta 02] - 27.04.2017
+### Information
+- Added [Processor]: New devices in database: BlackBerry (Aurora, DTEK50, DTEK60, KEYOne, Priv), LG (G6), Huawei (P10, P10 Plus), Xiaomi (MI 5C, MI PAD 3), Samsung (Galaxy Tab S3, Galaxy S8, Galaxy S8+), Sony (Xperia XZ, XZS, XA1).
+- Added [Processor]: New types of SoC in database: Xiaomi Surge S1, MediaTek MT8176, Snapdragon 820 APQ8096, Snapdragon 835 MSM8998, Exynos 9 Octa 8895M.
+
+### Localization
+- Added: All updated strings loaded into our OneSky platform.
 
 ## Castro [2.3 Beta 01] - 19.04.2017
 ### Information
