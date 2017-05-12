@@ -1,5 +1,5 @@
 # Privacy Policy
-## Last updated: 07.02.2017
+## Last updated: 12.05.2017
 
 ## General information
 This application created by small team called Item Studio. The team consist of two members:
@@ -9,15 +9,7 @@ This application created by small team called Item Studio. The team consist of t
 You can contact us via email: studioitem@gmail.com
 
 ## Data collection
-Castro gathers anonymous usage data by using AppMetrica and Crashlytics. Castro does not collect any personal information such as email addresses, names, addresses, phones, etc.
-
-**What does AppMetrica record?**
-+ What country do you live in;
-+ How old are you;
-+ What is you sex;
-+ What kind of device you are using;
-+ Name of your device;
-+ Which version of Android you are using.
+Castro gathers anonymous usage data by using Crashlytics. Castro does not collect any personal information such as email addresses, names, addresses, phones, etc.
 
 **What does Crashlytics record?**
 Each time the application crashes (i.e. force closes) your device collects anonymous data, which helps resolving the problem. This data includes:
@@ -25,14 +17,14 @@ Each time the application crashes (i.e. force closes) your device collects anony
 + Operating system information – version, free space, free RAM, etc;
 + Device information – manufacturer and device name.
 
-Additionally, Crashlytics provides similar service to AppMetrica. It counts the number of active users and how often they use the app. No other information is collected.
+Additionally, Crashlytics counts the number of active users and how often they use the app. No other information is collected.
 
 **How does Item Studio use the collected information?**
 The tracking information allows to better understand the kind of people who use the app and optimize its functionality and user experience to their needs. Crash reports provided by Crashlytics are used to improve the stability and performance of the application. No personally identifying data is included.
 
 Also, we are using device name, collected using AppMetrica, as unique identifier to recognize device’s processor detailes. No more private information used in the application.
 
-All of the activity falls within the bounds of the [APPMETRICA TERMS OF SERVICE](https://yandex.ru/legal/metrica_termsofuse/) and [CRASHLYTICS TERMS OF SERVICE](http://try.crashlytics.com/terms/).
+All of the activity falls within the bounds of the [CRASHLYTICS TERMS OF SERVICE](http://try.crashlytics.com/terms/).
 
 
 ## Required permissions

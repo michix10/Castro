@@ -9,6 +9,7 @@ Castro - is the program that helps monitor the state of the system.
 
 **Premium version**
 - [Castro Premium - Google Play](https://play.google.com/store/apps/details?id=com.itemstudio.castro.pro)
+- [Castro Premium Beta - Google Play](https://play.google.com/apps/testing/com.itemstudio.castro.pro)  
 
 ## Changelog
 - [Release](CHANGELOG_RELEASE.md)

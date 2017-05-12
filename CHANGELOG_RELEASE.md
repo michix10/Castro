@@ -1,9 +1,47 @@
 # Changelog
 
-- Latest production version: 2.2.1 Build 2
+- Latest production version: 2.3
 - Latest beta version: 2.3 Beta 02
 
 This changelog is for release version of Castro. Changelog for beta version can be found [here](CHANGELOG_BETA.md).
+
+## Castro [2.3] - 12.05.2017
+### Information
+- Added [Battery]: "Unknown" statuses for Charge state and Health state fields.
+- Added [Wi-Fi]: New category - Technologies.
+- Added [Wi-Fi]: Check for Device-to-AP RTT support.
+- Added [Wi-Fi]: Check for Wi-Fi Direct support.
+- Added [Camera]: Current and Supported Flash modes.
+- Added [Camera]: Current and Supported White-Balance modes.
+- Added [Processor]: New devices in database: BlackBerry (Aurora, DTEK50, DTEK60, KEYOne, Priv), LG (G6), Huawei (P10, P10 Plus), Xiaomi (MI 5C, MI PAD 3), Samsung (Galaxy Tab S3, Galaxy S8, Galaxy S8+), Sony (Xperia XZ, XZS, XA1).
+- Added [Processor]: New types of SoC in database: Xiaomi Surge S1, MediaTek MT8176, Snapdragon 820 APQ8096, Snapdragon 835 MSM8998, Exynos 9 Octa 8895M.
+
+### Design
+- Updated: Icon for accessing Battery's system settings.
+
+### Features
+- Added: Support for new "tall" displays (Samsung Galaxy S8 and LG G6).
+- Added: Android 7.1 Shortcuts to create reports.
+- Added: Ability to access system settings for Memory, Wi-Fi, Cellular right from Castro by clicking icon in Toolbar.
+- Added: Missing string about DashClock widgets in Go Premium window.
+- Improved: RTL support.
+- Improved: Tablets detection method now work better.
+- Improved: SIM card detection method now work better.
+- Improved: Wi-Fi detection method now detects not only enabled Wi-Fi, but connected also.
+
+### Perfromance
+- Updated: All .png graphics files updated with new Google format - .webp.
+- Updated: Rules for ProGuard with even more orientation steps.
+- Imroved: Speed of Root detection.
+
+### Fixes
+- Fixed: Small improvements for normal widget [PREMIUM].
+- Fixed: Repeatable information from export feature.
+- Fixed: Normal widget's icons croping [PREMIUM].
+- Removed: Degree for Kelvin temprature.
+
+### Tools
+- Updated: PDF creation engine.
 
 ## Castro [2.2.1] - 07.02.2017 | Castro [2.2.1 Build 2] - 09.02.2017
 ### Features
