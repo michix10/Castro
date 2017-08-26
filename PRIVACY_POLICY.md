@@ -1,30 +1,28 @@
 # Privacy Policy
-## Last updated: 12.05.2017
+## Last modified: 26.08.2017
 
 ## General information
-This application created by small team called Item Studio. The team consist of two members:
-+ Pavel Rekun – developer;
-+ Aleksandr Karpilovich – designer.
+This application developed by one person - Pavel Rekun with help of designer - Aleksandr Karpilovich.
 
-You can contact us via email: studioitem@gmail.com
+You can contact us via email: pavel.rekun.development@gmail.com
 
 ## Data collection
-Castro gathers anonymous usage data by using Crashlytics. Castro does not collect any personal information such as email addresses, names, addresses, phones, etc.
+Castro gathers anonymous usage data by using Firebase. Castro does not collect any personal information such as email addresses, names, addresses, phones, etc.
 
-**What does Crashlytics record?**
+**What does Firebase record?**
 Each time the application crashes (i.e. force closes) your device collects anonymous data, which helps resolving the problem. This data includes:
 + Stack traces from all threads;
 + Operating system information – version, free space, free RAM, etc;
 + Device information – manufacturer and device name.
 
-Additionally, Crashlytics counts the number of active users and how often they use the app. No other information is collected.
+Additionally, Firebase counts the number of active users and how often they use the app. No other information is collected.
 
-**How does Item Studio use the collected information?**
-The tracking information allows to better understand the kind of people who use the app and optimize its functionality and user experience to their needs. Crash reports provided by Crashlytics are used to improve the stability and performance of the application. No personally identifying data is included.
+**How do we use the collected information?**
+The tracking information allows to better understand the kind of people who use the app and optimize its functionality and user experience to their needs. Crash reports provided by Firebase are used to improve the stability and performance of the application. No personally identifying data is included.
 
-Also, we are using device name, collected using AppMetrica, as unique identifier to recognize device’s processor detailes. No more private information used in the application.
+Also, we are using device name, collected using Firebase, as unique identifier to recognize device’s processor detailes. No more private information used in the application.
 
-All of the activity falls within the bounds of the [CRASHLYTICS TERMS OF SERVICE](http://try.crashlytics.com/terms/).
+All of the activity falls within the bounds of the [FIREBASE TERMS OF SERVICE](https://firebase.google.com/terms).
 
 
 ## Required permissions

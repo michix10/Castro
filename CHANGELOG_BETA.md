@@ -1,9 +1,42 @@
 # Changelog
 
 - Latest production version: 2.3
-- Latest beta version: 2.3 Beta 02
+- Latest beta version: 2.4 Beta 01
 
 This changelog is for beta version of Castro. Changelog for main version can be found [here](CHANGELOG_RELEASE.md).
+
+## Castro [2.4 Beta 01] - 26.08.2017
+### Information
+- Added [Sensors]: More sensors type - Game Rotation Vector and Rotation Vector.
+- Added [Sensors]: Graph to display realtime changes in sensor's values.
+- Added [Sensors]: Maximum events count.
+- Added [Sensors]: Maximum delay between events.
+- Added [Sensors]: Minimum delay between events.
+- Added [Sensors]: Reporting mode of sensor.
+- Added [Sensors]: Check for Dynamic sensor.
+- Added [Sensors]: Check for Wake-Up sensor.
+
+### Features
+- Added: Firebase Analytics, Firebase Crash Reporting and Firebase Performance Monitoring modules instead of Crashlytics.
+- Added: Initial support for Android O.
+- Added: Rate us button in About Castro window.
+- Added: Anonymous reports support in Export information dialog.
+- Added: Support for CSV format of reports in Export information dialog.
+- Updated: Library to work with runtime permissions.
+- Updated: List of Open-Source libraries used by application.
+- Updated: Theme Engine now supports hot swap of accent color.
+- Removed: Feedback button from About Castro window.
+
+### Design
+- Added: Toolbar shadow when scrolling in some windows (more coming during beta).
+- Updated: Overhaul design of Export information dialog.
+- Updated: Overhaul design of Open source licenses dialog.
+- Updated: Overhaul design of Sensors window.
+- Updated: Overhaul design of About Castro window.
+- Updated: Medium icon in About Castro window.
+
+### Fixes
+- Fixed: Colors of Other cards in Night mode.
 
 ## Castro [2.3 Beta 02] - 27.04.2017
 ### Information
