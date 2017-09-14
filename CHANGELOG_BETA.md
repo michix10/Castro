@@ -1,9 +1,16 @@
 # Changelog
 
 - Latest production version: 2.3
-- Latest beta version: 2.4 Beta 01
+- Latest beta version: 2.4 Beta 02
 
 This changelog is for beta version of Castro. Changelog for main version can be found [here](CHANGELOG_RELEASE.md).
+
+## Castro [2.4 Beta 02] - 14.09.2017
+### Design
+- Added: Toolbar shadow when scrolling in main information sections.
+
+### Fixes
+- Fixed: Crash in new Sensors window.
 
 ## Castro [2.4 Beta 01] - 26.08.2017
 ### Information
