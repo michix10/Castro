@@ -1,9 +1,34 @@
 # Changelog
 
 - Latest production version: 2.4
-- Latest beta version: 2.4 Beta 01
+- Latest beta version: 2.5 Beta 01
 
 This changelog is for beta version of Castro. Changelog for main version can be found [here](CHANGELOG_RELEASE.md).
+
+## Castro [2.5 Beta 01] - 19.12.2017
+### Information
+- Added [Cellular]: New category - Speed;
+- Added [Cellular]: Download network speed;
+- Added [Cellular]: Upload network speed;
+- Added [Device]: sRGB support.
+
+### Features
+- Added [Premium]: Notification with realtime Download and Upload speed measuring.
+- Added: Native support for fonts.
+- Updated: Runtime permissions handling library.
+
+### Design
+- Added: Support for Adaptive Icons.
+- Updated: Overhaul design of Other window.
+- Updated: Promotion screenshots with updated screens and separation of basic and premium features [NOT RELEASED].
+- Updated: Icons size in Sensors list.
+- Updated: Width of Licesnses dialog in settings.
+- Imroved: Permormance of all vector icons using AVDO tool.
+
+### Fixes
+- Fixed: Bug, when device name squeezed out Premium badge in Navigation Drawer.
+- Fixed: White toolbar's background color, when toolbar collapsed.
+- Fixed: Crashes on WelcomeActivity.
 
 ## Castro [2.4 Beta 02] - 14.09.2017
 ### Design
