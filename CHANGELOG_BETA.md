@@ -1,9 +1,16 @@
 # Changelog
 
 - Latest production version: 2.4
-- Latest beta version: 2.5 Beta 01
+- Latest beta version: 2.5 Beta 02
 
 This changelog is for beta version of Castro. Changelog for main version can be found [here](CHANGELOG_RELEASE.md).
+
+## Castro [2.5 Beta 02] - 20.12.2017
+### Fixes
+- Fixed: Crash on Device category.
+- Fixed: Incorrect colors with enabled Night mode.
+- Fixed: Accent color picker mixed layout.
+- Fixed: Crash for Speed notification.
 
 ## Castro [2.5 Beta 01] - 19.12.2017
 ### Information
