@@ -1,4 +1,11 @@
-![Castro Logo](/images/icon.png)
+<h1 align="center">
+  <br>
+  <br>
+  <img src="./images/icon.png">
+  <br>
+  <br>
+</h1>
+
 # Castro
 Castro - is the program that helps monitor the state of the system.
 
