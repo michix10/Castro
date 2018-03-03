@@ -1,9 +1,17 @@
 # Changelog
 
 - Latest production version: 2.5
-- Latest beta version: 2.6 Beta 01
+- Latest beta version: 2.6 Beta 02
 
 This changelog is for beta version of Castro. Changelog for main version can be found [here](CHANGELOG_RELEASE.md).
+
+## Castro [2.6 Beta 02] - 03.03.2018
+### Information
+- Added [Device]: Type of screen.
+
+### Fixes:
+- Fixed: SIM section initialization process.
+- Fixed: Empty country ISO and name in SIM section.
 
 ## Castro [2.6 Beta 01] - 29.02.2018
 ### Information
