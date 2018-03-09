@@ -1,10 +1,10 @@
 # Privacy Policy
-## Last modified: 26.08.2017
+## Last modified: 09.03.2018
 
 ## General information
-This application developed by one person - Pavel Rekun with help of designer - Aleksandr Karpilovich.
+This application developed by - Pavel Rekun and designed by - Aleksandr Karpilovich.
 
-You can contact us via email: pavel.rekun.development@gmail.com
+You can contact me via email: pavel.rekun.development@gmail.com
 
 ## Data collection
 Castro gathers anonymous usage data by using Firebase. Castro does not collect any personal information such as email addresses, names, addresses, phones, etc.
