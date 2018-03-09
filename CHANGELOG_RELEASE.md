@@ -1,9 +1,37 @@
 # Changelog
 
-- Latest production version: 2.5
+- Latest production version: 2.6
 - Latest beta version: 2.6 Beta 03
 
 This changelog is for release version of Castro. Changelog for beta version can be found [here](CHANGELOG_BETA.md).
+
+## Castro [2.6] - 09.09.2017
+### Information
+- Added [SIM]: New section - SIM.
+- Added [SIM]: New categories - General, Primary SIM, Secondary SIM and Default.
+- Added [SIM]: General: Phone type, SIM slots count and Unlocked phone.
+- Added [SIM]: Default: Internet, Voice and SMS.
+- Added [SIM]: Operator name, number, slot index, country ISO, country name, ICC ID, MCC, MNC.
+- Added [Memory]: Used RAM memory.
+- Added [Memory]: Used Internal memory.
+- Added [Memory]: Used External memory.
+- Added [Memory]: Used SWAP memory.
+- Added [Sensors]: Maximum FIFO events count.
+- Added [Sensors]: Reserved FIFO events count.
+- Added [Device]: Type of screen.
+
+### Design
+- Added: Flags of countries in Translators window.
+
+### Features
+- Added: Ability to change more units of measurement in Settings.
+- Added: Double SIM support devices support.
+- Added: Build number in Feedback window.
+- Changed: Minimum android version to 22 (Android Lollipop 5.1).
+
+### Fixes
+- Fixed [SIM]: Check for unlocked phone.
+- Fixed: PDF report creating features.
 
 ## Castro [2.5] - 23.12.2017
 ### Information

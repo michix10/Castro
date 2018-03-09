@@ -1,11 +1,11 @@
 # Changelog
 
-- Latest production version: 2.5
+- Latest production version: 2.6
 - Latest beta version: 2.6 Beta 03
 
 This changelog is for beta version of Castro. Changelog for main version can be found [here](CHANGELOG_RELEASE.md).
 
-## Castro [2.7 Beta 03] - 04.03.2018
+## Castro [2.6 Beta 03] - 04.03.2018
 ### Fixes
 - Fixed: Various Premium related bugs.
 
@@ -28,7 +28,6 @@ This changelog is for beta version of Castro. Changelog for main version can be 
 - Added [Memory]: Used Internal memory.
 - Added [Memory]: Used External memory.
 - Added [Memory]: Used SWAP memory.
-- Added [Memory]: Crash on Device category.
 - Added [Sensors]: Maximum FIFO events count.
 - Added [Sensors]: Reserved FIFO events count.
 - Fixed [SIM]: Check for unlocked phone.
