@@ -1,11 +1,22 @@
 # Changelog
 
-- Latest production version: 2.6
+- Latest production version: 2.6.1
 - Latest beta version: 2.6 Beta 03
 
 This changelog is for release version of Castro. Changelog for beta version can be found [here](CHANGELOG_BETA.md).
 
-## Castro [2.6] - 09.09.2017
+## Castro [2.6.1] - 12.03.2017
+### Features
+- Updated: Firebase services to improve overhaul performance.
+
+### Fixes
+- Fixed: Cutting edges on Translators window.
+
+### Localization
+- Added: Portuguese (Portugal) translation.
+- Added: Spanish translation.
+
+## Castro [2.6] - 09.03.2017
 ### Information
 - Added [SIM]: New section - SIM.
 - Added [SIM]: New categories - General, Primary SIM, Secondary SIM and Default.
