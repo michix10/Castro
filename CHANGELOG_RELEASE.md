@@ -1,9 +1,18 @@
 # Changelog
 
-- Latest production version: 2.6.1
+- Latest production version: 2.6.2
 - Latest beta version: 2.6 Beta 03
 
 This changelog is for release version of Castro. Changelog for beta version can be found [here](CHANGELOG_BETA.md).
+
+## Castro [2.6.2] - 14.03.2017
+### Fixes
+- Fixed: Crash when using Network Speed notification.
+- Fixed: Crash when viewing specific codecs.
+
+### Localization
+- Updated: Spanish translation.
+- Updated: Italian translation.
 
 ## Castro [2.6.1] - 12.03.2017
 ### Features
