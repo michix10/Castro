@@ -2,15 +2,14 @@
 ### What are the system requirements of the program?
 Android 5.1 (API 22) and above.
 
-### Why are there two Castro apps?
+### Why are there two Castro applications?
 There are two versions of Castro - Basic and Premium. Premium version has extra features, that doesn't available in basic version. The Premium version of Castro is a standalone application.
 
-### What is the difference beetwen Basic and Premium version?
+### What is the difference between Basic and Premium version?
 The Premium version enables such features:
 
-* Customisable widget
+* Customizable widget
 * Night Mode
-* Dash Clock widgets
 * Internet speed notification
 
 We are developing new Premium features for every update. Buy once, get it all!

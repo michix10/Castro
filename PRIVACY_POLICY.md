@@ -1,5 +1,5 @@
 # Privacy Policy
-## Last modified: 09.03.2018
+## Last modified: 29.03.2018
 
 ## General information
 This application developed by - Pavel Rekun and designed by - Aleksandr Karpilovich.
@@ -29,6 +29,7 @@ All of the activity falls within the bounds of the [FIREBASE TERMS OF SERVICE](h
 Castro requests following permissions on your device:
 + ACCESS WIFI STATE – used by Wi-Fi module to get and display information about connected Wi-Fi spot;
 + ACCESS NETWORK STATE – used by Cellular module to get and display information about your carrier and mobile network;
++ INTERNET – used to get IP information for users and to work with Firebase;
 + READ PHONE STATE – required to get unique identifiers, as IMEI, IMSI, etc;
 + CAMERA – used by Camera module to get and display information about your front and back cameras; 
 + WRITE EXTERNAL STORAGE – required to create information reports on your internal storage or SD card;

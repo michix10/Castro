@@ -1,9 +1,43 @@
 # Changelog
 
 - Latest production version: 2.6.2
-- Latest beta version: 2.6 Beta 03
+- Latest beta version: 2.7 Beta 01
 
 This changelog is for beta version of Castro. Changelog for main version can be found [here](CHANGELOG_RELEASE.md).
+
+## Castro [2.7 Beta 01] - 29.03.2018
+### Information
+- Added [System]: Check for LineageOS version.
+- Added [Battery]: Current performance profile check for LineageOS users.
+- Updated [Battery]: Current charge speed method updated to work on more devices.
+
+### Design
+- Updated [PREMIUM]: Font of widget titles.
+- Updated [PREMIUM]: Color of titles changes dynamically now in Configure Widget screen.
+- Updated [PREMIUM]: Font of titles in Configure Widget screen.
+- Updated [PREMIUM]: Widget's preview image.
+- Updated: Design of Codec detailed information dialog.
+
+### Features
+- Added [PREMIUM]: 10 seconds refresh interval for widget.
+- Added [PREMIUM]: AMOLED night theme.
+- Updated [PREMIUM]: Method of widget information updating.
+- Updated [PREMIUM]: Widget information update in background.
+- Removed [PREMIUM]: Support for DashClock widgets.
+- Added: Support for LineageOS specific information.
+- Added: More accent colors combinations in Settings.
+- Added: Permissions handling in SIM section.
+- Updated: Codecs information handler.
+- Updated: Changed layout of color dialog to display currently selected color.
+
+### Fixes
+- Fixed [PREMIUM]: Configure Widget screen will properly work with Night Mode now.
+- Fixed [PREMIUM]: Fixed memory leak during widget work.
+- Fixed [PREMIUM]: Initialization of widget after config changes or reboots.
+- Fixed: Crash, when trying to achieve settings from information section.
+- Fixed: Wrong text in Permissions dialog in Device section.
+- Fixed: Missing title in Measurement settings.
+- Fixed: Enabled fullscreen config in Configure Widget screen.
 
 ## Castro [2.6 Beta 03] - 04.03.2018
 ### Fixes
@@ -201,7 +235,7 @@ This changelog is for beta version of Castro. Changelog for main version can be 
 - Added [Memory]: Check for SWAP total, available and cached memory.
 - Added [Device]: Check for Fingerprint scanner availability.
 - Added [Sensors]: Sensors API improved.
-- Added [Sensors]: Dialog with additional infomation - Full name, Vendor, Type, Version, Resolution, Power consumption, Maximum range.
+- Added [Sensors]: Dialog with additional information - Full name, Vendor, Type, Version, Resolution, Power consumption, Maximum range.
 - Added [Network]: Checks for current and available TCP algorithms.
 
 ### Design
