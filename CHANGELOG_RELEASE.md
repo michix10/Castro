@@ -40,6 +40,7 @@ This changelog is for release version of Castro. Changelog for beta version can 
 - Fixed: Mistakes in localization for Device section.
 - Fixed: Missing title in Measurements settings.
 - Fixed: Crash when trying to open Google Play from application.
+- Fixed: Missing launcher icon on Android Nougat and earlier.
 
 ## Castro [2.6.2] - 14.03.2017
 ### Fixes
