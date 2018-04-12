@@ -9,6 +9,8 @@
 # Castro
 Castro - is the program that helps monitor the state of the system.
 
+** Latest version: 2.7 **
+
 ## Download
 **Basic version**
 - [Castro - Google Play](https://play.google.com/store/apps/details?id=com.itemstudio.castro)

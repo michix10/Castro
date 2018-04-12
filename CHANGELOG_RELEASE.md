@@ -1,9 +1,45 @@
 # Changelog
 
-- Latest production version: 2.6.2
+- Latest production version: 2.7
 - Latest beta version: 2.7 Beta 01
 
 This changelog is for release version of Castro. Changelog for beta version can be found [here](CHANGELOG_BETA.md).
+
+## Castro [2.7] - 12.04.2017
+## Information
+- Added [System]: LineageOS version.
+- Added [Battery]: Active performance profile for LineageOS.
+- Added [Processor]: Support for Kirin 659 processor.
+- Added [Processor]: Lenovo YB1-X90F, Huawei P20, P20 PRO, P20 Lite and Xiaomi Mi MIX 2S added to devices database.
+- Updated [Battery]: Current charge speed method updated to work on more devices.
+
+### Design
+- Updated [PREMIUM]: Widget titles font.
+- Updated [PREMIUM]: Titles colors changes dynamically now in Configure Widget screen.
+- Updated [PREMIUM]: Titles font in Configure Widget screen.
+- Updated [PREMIUM]: Widget's preview image.
+- Updated: Design of Codec detailed information dialog.
+- Updated: Design of Color Choser dialog.
+
+### Features
+- Added [PREMIUM]: 10 seconds refresh interval for widget.
+- Added [PREMIUM]: AMOLED Night mode.
+- Updated [PREMIUM]: Widget background worker.
+- Updated [PREMIUM]: Widget information update in background.
+- Removed [PREMIUM]: Support for DashClock widgets.
+- Added: More accent colors combinations in Settings.
+- Added: Permissions handling in SIM section.
+- Updated: Codecs information handler.
+
+### Fixes
+- Fixed [PREMIUM]: Configure widget screen’s missing background in rare cases.
+- Fixed [PREMIUM]: Configure widget screen now properly works with Night modes.
+- Fixed [PREMIUM]: Configure widget screen now properly works with accent colors.
+- Fixed [PREMIUM]: Crashes when trying to open system settings from information sections.
+- Fixed [PREMIUM]: Memory leak during widget’s background work.
+- Fixed: Mistakes in localization for Device section.
+- Fixed: Missing title in Measurements settings.
+- Fixed: Crash when trying to open Google Play from application.
 
 ## Castro [2.6.2] - 14.03.2017
 ### Fixes
