@@ -1,9 +1,18 @@
 # Changelog
 
-- Latest production version: 2.7
+- Latest production version: 2.7.1
 - Latest beta version: 2.7 Beta 01
 
 This changelog is for release version of Castro. Changelog for beta version can be found [here](CHANGELOG_BETA.md).
+
+## Castro [2.7.1] - 30.04.2017
+### Features:
+- Updated: Spanish localization;
+- Updated: System libraries and ProGuard configuration.
+
+## Fixes
+- Fixed: Crash on startup. 
+- Fixed: Crash in Codecs detailed dialogs.
 
 ## Castro [2.7] - 12.04.2017
 ## Information
