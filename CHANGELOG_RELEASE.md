@@ -1,11 +1,16 @@
 # Changelog
 
-- Latest production version: 2.7.1
+- Latest production version: 2.7.2
 - Latest beta version: 2.7 Beta 01
 
 This changelog is for release version of Castro. Changelog for beta version can be found [here](CHANGELOG_BETA.md).
 
-## Castro [2.7.1] - 30.04.2017
+## Castro [2.7.2] - 07.05.2018
+### Features:
+- Updated: Italian localization;
+- Updated: Firebase libraries.
+
+## Castro [2.7.1] - 30.04.2018
 ### Features:
 - Updated: Spanish localization;
 - Updated: System libraries and ProGuard configuration.
@@ -14,7 +19,7 @@ This changelog is for release version of Castro. Changelog for beta version can 
 - Fixed: Crash on startup. 
 - Fixed: Crash in Codecs detailed dialogs.
 
-## Castro [2.7] - 12.04.2017
+## Castro [2.7] - 12.04.2018
 ## Information
 - Added [System]: LineageOS version.
 - Added [Battery]: Active performance profile for LineageOS.
@@ -51,7 +56,7 @@ This changelog is for release version of Castro. Changelog for beta version can 
 - Fixed: Crash when trying to open Google Play from application.
 - Fixed: Missing launcher icon on Android Nougat and earlier.
 
-## Castro [2.6.2] - 14.03.2017
+## Castro [2.6.2] - 14.03.2018
 ### Fixes
 - Fixed: Crash when using Network Speed notification.
 - Fixed: Crash when viewing specific codecs.
@@ -60,7 +65,7 @@ This changelog is for release version of Castro. Changelog for beta version can 
 - Updated: Spanish translation.
 - Updated: Italian translation.
 
-## Castro [2.6.1] - 12.03.2017
+## Castro [2.6.1] - 12.03.2018
 ### Features
 - Updated: Firebase services to improve overhaul performance.
 
@@ -71,7 +76,7 @@ This changelog is for release version of Castro. Changelog for beta version can 
 - Added: Portuguese (Portugal) translation.
 - Added: Spanish translation.
 
-## Castro [2.6] - 09.03.2017
+## Castro [2.6] - 09.03.2018
 ### Information
 - Added [SIM]: New section - SIM.
 - Added [SIM]: New categories - General, Primary SIM, Secondary SIM and Default.

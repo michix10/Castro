@@ -9,7 +9,7 @@
 # Castro
 Castro - is the program that helps monitor the state of the system.
 
-**Latest version: 2.7.1**
+**Latest version: 2.7.2**
 
 ## Download
 **Basic version**
