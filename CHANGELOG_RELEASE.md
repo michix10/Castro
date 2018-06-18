@@ -1,9 +1,47 @@
 # Changelog
 
-- Latest production version: 2.7.2
-- Latest beta version: 2.8 Beta 01
+- Latest production version: 2.8
+- Latest beta version: Unavailable
 
 This changelog is for release version of Castro. Changelog for beta version can be found [here](CHANGELOG_BETA.md).
+
+## Castro [2.8] - 18.06.2018
+### Information
+- Added [Bluetooth]: Added new category - Bluetooth in Other. It will check for Low Energy and other technologies support. Also can check connected devices properties.
+- Added [Processor]: New devices in database - Primo N2,  OnePlus 5,  Xiaomi (MI 6X, MI 8, MI 8 SE, Redmi S2), BlackBerry KEY2, Nokia (3.1, 5.1, 6.1, 8 Sirocco, X6), LG V35 ThinQ, Meizu (15, 15 Lite, 15 Plus, E3).
+- Added [Processor]: New SoC in database - Snapdragon 660, Snapdragon 710.
+- Added [Device]: In identifiers section added Google Services Framework ID.
+- Added [Device]: In identifiers section added IMEI 2 for dual-sim devices.
+- Added [Device]: In identifiers section added MEID 1 and MEID 2 for CDMA devices.
+- Added [Device]: New section - HDR. It will check for display's HDR support.
+- Added [System]: In OS section added P check support (will it be Pineapple?).
+- Added [System]: In miscellaneous section added version of Google Play Services.
+- Added [System]: In miscellaneous section added version of Java Runtime.
+- Improved [Wi-Fi]: In properties section Signal field now shows in percents.
+- Improved [Processor]: In CPU section Supported ABI field will display 64-bit ABI aswell.
+
+### Design
+- Added: Main font for all section titles is now Roboto Monospace.
+- Added: Animation for settings categories transitions between screens.
+- Updated [PREMIUM]: Layout of Speed notification screen with "example of usage".
+- Updated [PREMIUM]: Added more contrast color for Navigation Drawer and other navigation elements in OLED theme.
+- Updated [PREMIUM]: Status bar color updated with darker variant for both Night and OLED theme.
+- Updated: Most of vector icons updated to Material Design 2.0 specification.
+- Updated: Icons for system settings links in Battery, Memory, Internet and Wi-Fi updated to Material Design 2.0 specification.
+- Improved: Margins and paddings on Sensor details screen.
+- Improved: Optimized size of many raster icons and images.
+
+### Features
+- Added: Double click to exit application to prevent false application closures.
+- Added: Possibility to reset all measurement settings to default state.
+- Added: Link to SIM system settings in SIM category.
+
+### Fixes
+- Fixed [Wi-Fi]: In properties section SSID field will be hidden if Hidden SSID enabled in router.
+- Fixed [Codecs]: All codecs types were marked as "Unavailable".
+- Fixed [System]: Bootloader version was marked as "Unknown".
+- Fixed [System]: Wrong detection of SELinux state.
+- Fixed: Useless restart dialogs in measurement settings removed.
 
 ## Castro [2.7.2] - 07.05.2018
 ### Features:

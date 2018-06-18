@@ -1,7 +1,7 @@
 # Changelog
 
-- Latest production version: 2.7.2
-- Latest beta version: 2.8 Beta 01
+- Latest production version: 2.8
+- Latest beta version: Unavailable
 
 This changelog is for beta version of Castro. Changelog for main version can be found [here](CHANGELOG_RELEASE.md).
 
