@@ -1,9 +1,25 @@
 # Changelog
 
-- Latest production version: 2.8
+- Latest production version: 2.8.2
 - Latest beta version: Unavailable
 
 This changelog is for release version of Castro. Changelog for beta version can be found [here](CHANGELOG_BETA.md).
+
+## Castro [2.8.2] - 21.06.2018
+### Fixes
+- Fixed: Font size for titles in Settings.
+- Fixed: Crash in Device category (Google Services Framework ID).
+- Fixed: Crash in translators list.
+
+## Castro [2.8.1] - 19.06.2018
+### Design
+- Improved: Margins for default "data" fields.
+- Improved: Titles font size.
+
+### Fixes
+- Fixed: Added missing localization files
+- Fixed: Added Portugal flag in traslators list.
+- Fixed: Crash in Codecs list.
 
 ## Castro [2.8] - 18.06.2018
 ### Information
