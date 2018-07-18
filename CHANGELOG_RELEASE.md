@@ -1,9 +1,24 @@
 # Changelog
 
-- Latest production version: 2.8.2
+- Latest production version: 2.8.5
 - Latest beta version: Unavailable
 
 This changelog is for release version of Castro. Changelog for beta version can be found [here](CHANGELOG_BETA.md).
+
+## Castro [2.8.5] - 18.07.2018
+## Information
+- Added [Processor]: New devices in database: Xiaomi (Mi PAD 4, Redmi 6, Redmi 6A, Redmi 6 Pro), Vivo (Nex S, Nex A).
+- Added [Processor]: New SoC in database: MediaTek (Helio P22, Helio A22).
+
+### Features
+- Improved: Scroll resets after category changes.
+
+## Design
+- Improved: Removed capitalizer for each letter in Premium window.
+
+### Fixes
+- Fixed: Crash on devices with old Android versions.
+- Fixed: Crash on Devices category.
 
 ## Castro [2.8.2] - 21.06.2018
 ### Fixes
