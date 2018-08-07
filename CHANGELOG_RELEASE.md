@@ -1,9 +1,17 @@
 # Changelog
 
-- Latest production version: 2.8.5
+- Latest production version: 2.8.6
 - Latest beta version: Unavailable
 
 This changelog is for release version of Castro. Changelog for beta version can be found [here](CHANGELOG_BETA.md).
+
+## Castro [2.8.6] - 07.08.2018
+## Information
+- Added [Processor]: New devices in database: Xiaomi (MI A2, MI A2 Lite), Samsung (TAB S4), Honor (Play) and Huawei (Nova 3I).
+
+### Features
+- Added: Basic support for Android Pie (9.0).
+- Added: Belarusian language.
 
 ## Castro [2.8.5] - 18.07.2018
 ## Information
