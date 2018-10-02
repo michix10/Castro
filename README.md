@@ -9,7 +9,7 @@
 # Castro
 Castro - is the program that helps monitor the state of the system.
 
-**Latest production version: 2.8.6**
+**Latest production version: 2.8.7**
 
 ## Download
 **Basic version**
@@ -24,11 +24,14 @@ Castro - is the program that helps monitor the state of the system.
 - [Release](CHANGELOG_RELEASE.md)
 - [Beta](CHANGELOG_BETA.md)
 
+## Privacy Policy
+Information about data collection and used permission can be found in [Privacy Policy](PRIVACY_POLICY.md).
+
 ## FAQ
-[FAQ can be found here](FAQ.md)
+[FAQ can be found here](FAQ.md).
 
 ## Translation
-[If you want to help in the translation of the application, visit our OneSky platform.](https://rekundevelopment.oneskyapp.com/collaboration/project?id=55750)
+[If you want to help in the translation of the application, visit our OneSky platform.](https://rekundevelopment.oneskyapp.com/collaboration/project?id=55750).
 
 ## Bug report
 If you found a bug, please open the application, open Navigation View and press "Send feedback" to send report over email. Or you can open issue on [GitHub](https://github.com/MenosGrante/Castro/issues).

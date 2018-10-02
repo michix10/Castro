@@ -1,9 +1,18 @@
 # Changelog
 
-- Latest production version: 2.8.6
+- Latest production version: 2.8.7
 - Latest beta version: Unavailable
 
 This changelog is for release version of Castro. Changelog for beta version can be found [here](CHANGELOG_BETA.md).
+
+## Castro [2.8.7] - 02.10.2018
+## Information
+- Removed [Device]: Removed Google Play Services identifier.
+- Removed [System]: LineageOS version.
+- Removed [Battery]: LineageOS performance profile.
+
+## Other
+- Updated: Privacy Policy with new information.
 
 ## Castro [2.8.6] - 07.08.2018
 ## Information
