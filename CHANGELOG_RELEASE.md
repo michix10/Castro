@@ -1,9 +1,17 @@
 # Changelog
 
-- Latest production version: 2.8.7
+- Latest production version: 2.8.8
 - Latest beta version: Unavailable
 
 This changelog is for release version of Castro. Changelog for beta version can be found [here](CHANGELOG_BETA.md).
+
+## Castro [2.8.8] - 01.11.2018
+## Information
+- Added [Processor]:  New devices in database: Google (Pixel 3, Pixel 3 XL), OnePlus 6T, Xiaomi (Mi MIX 3, Pocofone F1, Black Shark), Huawei (Mate 20, Mate 20 PRO, Mate 20 Lite), LG V40 ThinQ, Nokia (7.1, 7.1 Plus), Razer Phone 2, Asus ROG Phone.
+- Added [Processor]: New SoC in database:  Kirin 710, Kirin 980.
+
+## Features
+- Added: Support for Android App Bundle to reduce final APK size
 
 ## Castro [2.8.7] - 02.10.2018
 ## Information
